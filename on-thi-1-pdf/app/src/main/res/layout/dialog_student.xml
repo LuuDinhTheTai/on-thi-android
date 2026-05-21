@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edtMaSv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mã sinh viên"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/edtTen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên sinh viên"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/edtToan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Điểm Toán"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/edtHoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Điểm Hoá"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/edtLy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Điểm Lý"
+        android:inputType="number" />
+
+</LinearLayout>
+

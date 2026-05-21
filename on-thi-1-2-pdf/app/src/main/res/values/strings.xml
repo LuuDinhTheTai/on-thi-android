@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Song Application</string>
+    <string name="song_application">Song Application</string>
+    <string name="search_by_name">Tìm kiếm theo tên bài hát</string>
+    <string name="song_name">Tên bài hát</string>
+    <string name="singer_name">Tên ca sĩ</string>
+    <string name="song_rating">Điểm đánh giá</string>
+    <string name="add">THÊM</string>
+    <string name="update">SỬA</string>
+    <string name="open_ringtone_screen">Màn hình nhạc chuông</string>
+    <string name="play_the_ringtone">Play the ringtone</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="back_to_home">Trở về trang chủ</string>
+</resources>

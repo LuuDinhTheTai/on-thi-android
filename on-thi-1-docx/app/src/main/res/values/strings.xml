@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NhaHangDemo</string>
+    <string name="search_hint">Type here to search ..</string>
+    <string name="add_data">Them du lieu</string>
+</resources>
